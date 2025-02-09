@@ -10,15 +10,6 @@ This project focuses on organizing and analyzing satellite temperature data usin
 - **Ayo**: Country-specific humidity analysis
 - **Chrispin**: Automation script development
 
-## Project Structure
-.
-├── analyzed_data/
-│   ├── highest_temp.csv
-│   └── humidity_data_country.csv
-├── raw_data/
-│   └── satelite_temperature_data.csv
-└── analyze_data.sh
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
@@ -43,7 +34,7 @@ Linux Commands (sort, grep, head)
 
 Made with 💙 by Team 26 ✨
 
-*Last Updated: 9 February 2024*
+
 
 
 
